@@ -17,11 +17,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; \
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
-![Adobeaftereffects](https://img.shields.io/badge/-Adobe%20After%20Effects-05122A?style=flat&logo=adobeaftereffects)&nbsp;
-![Adobeillustrator](https://img.shields.io/badge/-Adobe%20Illustrator-05122A?style=flat&logo=adobeillustrator)&nbsp;
+![Adobe after effects](https://img.shields.io/badge/-Adobe%20After%20Effects-05122A?style=flat&logo=adobeaftereffects)&nbsp;
+![Adobe illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-05122A?style=flat&logo=adobeillustrator)&nbsp;
 ![Adobexd](https://img.shields.io/badge/-Adobe%20Xd-05122A?style=flat&logo=adobexd)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender)&nbsp;
+![Autodesk Maya](https://img.shields.io/badge/-Autodesk%20Maya-05122A?style=flat&logo=autodesk)&nbsp;
 
 
 
